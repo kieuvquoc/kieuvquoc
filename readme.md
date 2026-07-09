@@ -34,7 +34,7 @@ Outside of work, I enjoy playing football, taking photos, and traveling.
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
   </a>
 
-  <a href="mailto:kieuvquoc26.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kieuvquoc26.dev@gmail.com&su=Hello%20Quoc,%20I%20found%20your%20GitHub&body=Hi%20Quoc,%20I%20visited%20your%20GitHub%20profile%20and%20want%20to%20connect%20with%20you!" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+</a>
 </p>
