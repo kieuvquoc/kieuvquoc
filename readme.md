@@ -1,7 +1,7 @@
 # Hi there, I'm Quoc 👋
 
 <div align="center">
-  <img width="100%" src="https://github.com/kieuvquoc/Kieu-Van-Quoc/blob/main/assets/new_cover.jpg" alt="cover" />
+  <img width="100%" src="https://github.com/kieuvquoc/Kieu-Van-Quoc/blob/main/assets/" alt="cover" />
 </div>
 
 <br /><br />
