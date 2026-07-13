@@ -1,8 +1,8 @@
 # Hi there, I'm Quoc 👋
 
-[<div align="center">
+<div align="center">
   <img width="100%" src="https://github.com/kieuvquoc/Kieu-Van-Quoc/blob/main/assets/" alt="cover" />
-</div>](url)
+</div>
 
 <br /><br />
 
