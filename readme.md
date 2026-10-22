@@ -1,4 +1,4 @@
-# Hi there, I'm Quoc 👋
+# <h4>Hi there, I'm Quoc 👋</h4>
 
 <div align="center">
   <img width="100%" src="https://github.com/kieuvquoc/Kieu-Van-Quoc/blob/main/assets/new_cover.jpg" alt="cover" />
@@ -33,6 +33,8 @@ Outside of work, I enjoy playing football, taking photos, and traveling.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+<br />
 
 ```dart
 // tools_I_use organized
