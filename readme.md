@@ -1,4 +1,4 @@
-<h4>Hi there, I'm Quoc 👋</h4>
+<h1>Hi there, I'm Quoc 👋</h1>
 
 <div align="center">
   <img width="100%" src="https://github.com/kieuvquoc/Kieu-Van-Quoc/blob/main/assets/new_cover.jpg" alt="cover" />
